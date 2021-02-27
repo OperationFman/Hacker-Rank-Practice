@@ -6,7 +6,6 @@ import sys
 
 # Complete the repeatedString function below.
 def repeatedString(s, n):
-    a=0
     m = s.count('a')
     if m==0:
         return 0
