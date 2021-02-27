@@ -1,2 +1,2 @@
 # Hacker-Rank-Practice
-Grinding my teeth on challenges for in prepaation for coding interviews
+Grinding my teeth on challenges for in preparation for coding interviews
