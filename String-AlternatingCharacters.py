@@ -1,9 +1,8 @@
 def alternatingCharacters(s):
-    index = 0
-    for i in s:
-        if i != None:
-            index += 1
-            if s[index] == s[index+1]:
-                print(i)
+    count = 0
+    for i in range (len(s)-1):
+        if s[i] == s[i+1]:
+            count += 1
+    return count
 
 alternatingCharacters('AAABBBAABB')
